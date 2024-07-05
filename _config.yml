@@ -1,9 +1,9 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
-baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Photography by Roach Haus
+description: Photography portfolio for Katie Ball of <a href="http://roachhd">Roach Haus Designs</a>
+baseurl: "http://katieball.me/lens/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Katie Ball
 
 # Collection settings
 collections:
@@ -13,13 +13,13 @@ collections:
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: https://gitlab.com/u/roachhd
+googleplus_url: https://plus.google.com/u/0/+roachhd
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/roachhd
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/mektball
 
 # Build settings
 markdown: kramdown
