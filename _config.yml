@@ -1,7 +1,7 @@
 # Site settings
 title: Photography by Roach Haus
 description: Photography portfolio for Katie Ball of <a href="http://roachhd">Roach Haus Designs</a>
-baseurl: "http://katieball.me/lens/" # the subpath of your site, e.g. /blog
+baseurl: "/lens/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Katie Ball
 
